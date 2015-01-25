@@ -43,5 +43,7 @@ This is then written into a file "tidy_data.txt".
 Tidy Data Set
 -------------
 The first column of the tidy data set "subject"  is the subject number.
+
 The second column "activity" gives a description of the activity (using activity labels from raw data set).
+
 The subsequent columns give the mean and standard deviations of the different measurements for each "subject" and "activity" combination.
